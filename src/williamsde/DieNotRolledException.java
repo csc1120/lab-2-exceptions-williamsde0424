@@ -5,7 +5,7 @@
  * Name: Demarion williams
  * Last Updated: 9/11/24
  */
-package username;
+package williamsde;
 
 public class DieNotRolledException extends RuntimeException {
 
